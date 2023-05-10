@@ -32,7 +32,7 @@ NYC School iPhone app is developed using Swift in MVVM architecture with simple 
 
 **Flow :**
 
-|![flow](/NYCSchools.mp4)|
+|![flow](/NYC Schools.mp4)|
 |:----------------------------:|
 |Flow| 
 
