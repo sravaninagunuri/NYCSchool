@@ -19,20 +19,20 @@ NYC School iPhone app is developed using Swift in MVVM architecture with simple 
 
 **Home Screen:**
 
-|![Light](Screenshots/schoolList_light.png)|![Dark](Screenshots/schoolList_dark.png)|
+|![Light](/schoolList_light.png)|![Dark](/schoolList_dark.png)|
 |:----------------------------:|:------------------------:|
 |Home Light Mode| Home Dark Mode |
 
 **Details Screen:**
 
-|![Light](Screenshots/school_details_light.png)|![Dark](Screenshots/school_details_dark.png)|
+|![Light](/school_details_light.png)|![Dark](/school_details_dark.png)|
 |:----------------------------:|:------------------------:|
 |Details Light Mode| Details Dark Mode |
 
 
 **Flow :**
 
-|![flow](Screenshots/NYCSchools.mp4)|
+|![flow](/NYCSchools.mp4)|
 |:----------------------------:|
 |Flow| 
 
